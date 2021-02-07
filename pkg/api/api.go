@@ -3,9 +3,9 @@ package api
 import (
 	"net/http"
 
-	"github.com/ricoberger/go-vue-starter/pkg/api/response"
-	"github.com/ricoberger/go-vue-starter/pkg/db"
-	"github.com/ricoberger/go-vue-starter/pkg/mail"
+	"github.com/jamieroyce/vue-golang/pkg/api/response"
+	"github.com/jamieroyce/vue-golang/pkg/db"
+	"github.com/jamieroyce/vue-golang/pkg/mail"
 
 	"github.com/gorilla/mux"
 )

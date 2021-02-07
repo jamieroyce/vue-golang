@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/ricoberger/go-vue-starter/pkg/static"
+	"github.com/jamieroyce/vue-golang/pkg/static"
 
 	"github.com/gorilla/mux"
 )

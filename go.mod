@@ -1,4 +1,4 @@
-module github.com/ricoberger/go-vue-starter
+module github.com/jamieroyce/vue-golang
 
 require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
@@ -9,13 +9,15 @@ require (
 	github.com/gorilla/mux v1.6.2
 	github.com/mjibson/esc v0.2.0 // indirect
 	github.com/mongodb/mongo-go-driver v0.2.0
-	github.com/pkg/errors v0.8.1 // indirect
+	github.com/pkg/errors v0.9.1 // indirect
 	github.com/sirupsen/logrus v1.3.0
 	github.com/tidwall/pretty v0.0.0-20180105212114-65a9db5fad51 // indirect
 	github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c // indirect
 	github.com/xdg/stringprep v1.0.0 // indirect
-	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550
-	golang.org/x/tools v0.0.0-20191213221258-04c2e8eff935 // indirect
+	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+	golang.org/x/mod v0.4.1 // indirect
+	golang.org/x/sys v0.0.0-20210124154548-22da62e12c0c // indirect
+	golang.org/x/tools v0.1.0 // indirect
 	gopkg.in/yaml.v2 v2.2.2
 )
 
